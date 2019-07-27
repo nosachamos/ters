@@ -12,4 +12,6 @@
 
 // PropTypes.prototype.isRemoteState = () => { /*nothing here*/ };
 
-export const ters = () => { /*no content*/ }
+export const ters = () => {
+  /*no content*/
+};
