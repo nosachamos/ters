@@ -10,4 +10,4 @@
 //   }
 // }
 
-PropTypes.prototype.isRemoteState = () => {};
+// PropTypes.prototype.isRemoteState = () => { /*nothing here*/ };
